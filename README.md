@@ -35,7 +35,7 @@ Git, Linux, Docker (dev), pytest, AWS SDK (boto3)
 📫 Let’s Connect
 
 📧 iman@e-comm.ba  
-🔗 🔗 [LinkedIn](https://www.linkedin.com/in/iman-agic-117326309/)
+🔗 [LinkedIn](https://www.linkedin.com/in/iman-agic-117326309/)
 
 <!--
 **imanagic/imanagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
