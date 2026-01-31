@@ -1,7 +1,8 @@
+<h1 align="center">Hi there, I’m Iman 👋</h1>
 
-Hi there, I’m Iman 👋
-
+<p align="center">
 @imanagic • AI & Computer Science student • Software & ML Systems
+</p>
 
 👨‍💻 About Me
 
