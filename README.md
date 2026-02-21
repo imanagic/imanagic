@@ -6,7 +6,7 @@
 
 👨‍💻 About Me
 
-🎓 Studying Computer Science at Lewis & Clark College, with a concentration in Theatre Dance  
+🎓 Studying Computer Science at Lewis & Clark College, and Theatre concentration in Dance  
 💼 Building software, data, and machine learning systems through internships and applied projects  
 🌱 Interested in AI agents, cybersecurity, and real-world system design  
 
